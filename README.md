@@ -1,3 +1,17 @@
+<h1 align="center">API Summarizer</h1>
+
+<p align="center"><font size="4">An AI API that summarizes any article</font></p>
+
+<img src="./photos/API_Summarizer.png>
+
+<h2 align="center">Screenshots</h2>
+
+<img src="gym_exercises_photos\Exercise_HomePage.png"/>
+<img src="gym_exercises_photos\Exercise_SearchBar.png"/>
+<img src="gym_exercises_photos\Exercise_Selections.png"/>
+<img src="gym_exercises_photos\Exercise_Details.png"/>
+<img src="gym_exercises_photos\Exercise_Help.png"/>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
