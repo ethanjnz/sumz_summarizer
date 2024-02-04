@@ -2,7 +2,7 @@
 
 <p align="center"><font size="4">An AI API that summarizes any article</font></p>
 
-<img src="photos/API_Summarizer.png">
+<img src="photos/AI_Summarizer.png">
 
 <h2 align="center">Screenshots</h2>
 
